@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/kenanyasinsarigul?tab=repositories)
 
-- 💬 Ask me about **Vue, React, Angular, .NETCORE, Java, Javascript, Php**
+- 💬 Ask me about **Vue, React, Angular, Java, Javascript, .NetCore, Php**
 
 - 📫 How to reach me **kenansarigul97@gmail.com**
 
