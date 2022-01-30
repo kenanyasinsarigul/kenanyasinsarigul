@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kenansarigul97@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ndDVtLwMZUjwIarJskXCx67n_PSMAeQ6/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
