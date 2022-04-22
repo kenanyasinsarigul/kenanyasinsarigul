@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Oyak Erdemir Metal Metalurji A.Ş.**
 
-- 🌱 I’m currently learning **Java, Javascript, Node.js, Vue.js**
+- 🌱 I’m currently learning **Java, Javascript, TypeScript, Node.js, Vue.js, Angular**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/kenanyasinsarigul?tab=repositories)
 
