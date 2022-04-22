@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenanyasinsarigul" alt="kenanyasinsarigul" /></a> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Oyak Erdemir Metal Metalurji A.Ş.**
 
 - 🌱 I’m currently learning **Java, Javascript, Node.js, Vue.js**
 
