@@ -5,18 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenanyasinsarigul" alt="kenanyasinsarigul" /></a> </p>
 
-- 🔭 I’m currently working on **Oyak Erdemir Metal Metalurji A.Ş.**
+- 🔭 I’m currently working on -> **Oyak Erdemir Metal Metalurji A.Ş.**
 
-- 🌱 I’m currently learning **Java, Javascript, TypeScript, Node.js, Vue.js, Angular**
+- 🌱 I’m currently learning -> **Java, Javascript, TypeScript, Node.js, Vue.js, Angular**
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/kenanyasinsarigul?tab=repositories)
+- 👨‍💻 All of my projects are available at -> [repositories](https://github.com/kenanyasinsarigul?tab=repositories)
 
-- 💬 Ask me about **Vue, React, Angular, Java, Javascript, .NetCore, Php**
+- 💬 Ask me about -> **Vue, React, Angular, Java, Javascript, .NetCore, Php**
 
 - 📫 How to reach me -> **<a href="https://www.linkedin.com/in/kenanyasinsarigul
 ">linkedin</a>**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing)
+- 📄 Know about my experiences -> [CV](https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
