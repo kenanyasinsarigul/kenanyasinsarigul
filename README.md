@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **Vue, React, Angular, Java, Javascript, .NetCore, Php**
 
-- 📫 How to reach me **kenansarigul97@gmail.com**
+- 📫 How to reach me -> **<a href="https://www.linkedin.com/in/kenanyasinsarigul
+">linkedin</a>**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing)
 
