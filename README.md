@@ -16,7 +16,7 @@
 - 📫 How to reach me -> **<a href="https://www.kenanyasinsarigul.com
 ">Portfolio</a>**
 
-- 📄 Know about my experiences -> [CV]([https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing](https://drive.google.com/file/d/1tUf1PRQ2quR3mvtjEYeNSZDLamc_WrRz/view?usp=sharing))
+- 📄 Know about my experiences -> [CV]([https://drive.google.com/file/d/1r2q7N6MBDcNKzfPbRTF_lBeuqbRIL84H/view?usp=sharing](https://drive.google.com/file/d/1tUf1PRQ2quR3mvtjEYeNSZDLamc_WrRz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
